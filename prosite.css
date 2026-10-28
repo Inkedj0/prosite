@@ -108,7 +108,7 @@ body {
     width: 100%;
     height: 100%;
 
-    background-image: URL("Afbeeldingen/zed_asansfortheneedsofthe21stcentury.png");
+    background-image: url("Afbeeldingen/zed_asansfortheneedsofthe21stcentury.png");
     background-size: cover;
 }
 
